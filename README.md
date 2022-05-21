@@ -2,4 +2,4 @@
 
 ## Sobre o projeto
 
-  O projeto é um exercício de cáculo de média de notas utilizando a Linguagem em C.
+  O projeto é um exercício de cálculo de média de notas utilizando a Linguagem em C.
